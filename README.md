@@ -11,6 +11,7 @@ The purpose of this analysis is to assist Omar in creating a summary DataFrame o
 ![city_type_compare](https://github.com/nyoung246/PyBer_Analysis/blob/main/analysis/city_type_compare.PNG)
 
 Looking at the summary DataFrame and multiplate line chart above, there are a few differences in ride-sharing data among the different city types as shown in the below points:
+
 •	Rural cities have the lowest “Total Rides”, “Total Drivers” and “Total Fares”, whereas the Urban cities have the highest numbers in these areas from the months of January to April consistently.
 
 •	Suburban cities are the only city type that have a upward slope in April, whereas Rural and Urban cities have a more gentle slope downwards. 
