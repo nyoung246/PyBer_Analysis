@@ -6,9 +6,9 @@ The purpose of this analysis is to assist Omar in creating a summary DataFrame o
 
 ## Results: 
 
-![PyBer_fare_summary](https://github.com/nyoung246/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
-
 ![city_type_compare](https://github.com/nyoung246/PyBer_Analysis/blob/main/analysis/city_type_compare.PNG)
+
+![PyBer_fare_summary](https://github.com/nyoung246/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 Looking at the summary DataFrame and multiplate line chart above, there are a few differences in ride-sharing data among the different city types as shown in the below points:
 
